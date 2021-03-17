@@ -31,12 +31,10 @@
 			"svelte/easing"
 		]
 	},
-
 	"include": [
-		"./src/**/*"
+		"./src/**/*", ".eslintrc.js"
 	],
 	"exclude": [
-		"./src/**/*.js",
 		"node_modules/**/*"
 	]
 }
